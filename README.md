@@ -4,12 +4,12 @@
 
 ## Steps to run:
 
-### [install]
+### install
 
 ```sh
 npm install
 ```
-### [run]
+### run
 
 ```sh
 ng serve
@@ -20,12 +20,12 @@ ng serve
 
 ## Steps to run:
 
-### [install]
+### install
 
 ```sh
 npm install
 ```
-### [run]
+### run
 
 ```sh
 node server.js
